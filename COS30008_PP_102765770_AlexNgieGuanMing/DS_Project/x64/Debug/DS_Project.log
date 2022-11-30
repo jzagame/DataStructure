@@ -1,0 +1,8 @@
+﻿  NPCList.cpp
+C:\Users\green\Desktop\Swinburne\Data Structure\DS_Project\NPCList.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Player.cpp
+  main.cpp
+  Generating Code...
+C:\Users\green\Desktop\Swinburne\Data Structure\DS_Project\Player.cpp(62): warning C4715: 'Player::search': not all control paths return a value
+C:\Users\green\Desktop\Swinburne\Data Structure\DS_Project\Player.cpp(85): warning C4715: 'Player::validOfUse': not all control paths return a value
+  DS_Project.vcxproj -> C:\Users\green\Desktop\Swinburne\Data Structure\DS_Project\x64\Debug\DS_Project.exe
